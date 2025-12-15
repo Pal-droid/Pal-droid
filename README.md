@@ -1,1 +1,1 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pal-droid)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pal-droid&theme=dark)
